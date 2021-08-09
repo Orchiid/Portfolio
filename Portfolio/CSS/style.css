@@ -1,0 +1,233 @@
+.body{
+    position: relative;
+    width: 848px;
+    height: 531px;
+    
+    background: #2FD0A0;
+}
+
+.rectangle {
+    position: absolute;
+width: 848px;
+height: 46px;
+left: 0px;
+top: 1px;
+
+background: #1FB085;
+}
+.menu ul li{
+    position: absolute;
+width: 300px;
+height: 21px;
+left: 300px;
+top: 14px;
+}
+.home{
+    position: absolute;
+width: 42px;
+height: 21px;
+left: 300px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.skills{
+width: 32px;
+height: 21px;
+left: 363px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.recent{
+width: 49px;
+height: 21px;
+left: 416px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.client{
+
+width: 40px;
+height: 21px;
+left: 484px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.contact{
+
+width: 57px;
+height: 21px;
+left: 543px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+li {
+    list-style-type: none;
+    position: absolute;
+}
+.hey{
+    position: absolute;
+width: 46px;
+height: 21px;
+left: 748px;
+top: 14px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #BD00FF;
+}
+.model{
+position: absolute;
+
+left: 605.65px;
+top: 102px;
+width: 270.1px;
+height: 263.95px;
+
+top: 102px;
+
+background: url(pic.png);
+}
+img{
+
+width: 270.1px;
+height: 263.95px;
+left: 625.65px;
+top: 102px;
+
+background: url(pic.png);
+}
+.hi{
+    position: absolute;
+width: 77.92px;
+height: 41.88px;
+left: 41px;
+top: 162.56px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+.name{
+    position: absolute;
+width: 253.25px;
+height: 55.84px;
+left: 41px;
+top: 176.58px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+
+color: #000000;
+}
+.occupation{
+    position: absolute;
+width: 268.24px;
+height: 41.88px;
+left: 41px;
+top: 237.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+
+color: #000000;
+}
+.about-me{
+    position: absolute;
+width: 593.42px;
+height: 97.71px;
+left: 41px;
+top: 278.88px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: -0.02em;
+
+color: #000000;
+}
+.portfolio-btn{
+position: absolute;
+width: 123.75px;
+height: 29.27px;
+left: 43.92px;
+top: 398.73px;
+
+background: #71F6FF;
+border-radius: 10px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 28px;
+text-align: center;
+margin-top: 40px;
+}
+
